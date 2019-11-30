@@ -1,0 +1,6 @@
+park 3 5
+lake 2 3
+mall 1 4
+park 2 4
+lake 9 8
+mall 2 7
